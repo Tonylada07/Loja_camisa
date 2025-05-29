@@ -70,7 +70,7 @@ $produtosBaixoEstoque = $db->select("SELECT * FROM produtos WHERE estoque <= 10 
                     </div>
                 </div>
                 <div class="card-footer bg-light">
-                    <a href="vendas/index.php" class="text-decoration-none">Ver detalhes <i class="fas fa-arrow-right ms-1"></i></a>
+                    <a href="/Loja_camisa//camisa//admin//vendas/" class="text-decoration-none">Ver detalhes <i class="fas fa-arrow-right ms-1"></i></a>
                 </div>
             </div>
         </div>

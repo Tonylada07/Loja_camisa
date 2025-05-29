@@ -46,7 +46,7 @@ if (!isLoggedIn() && basename($_SERVER['PHP_SELF']) != 'login.php') {
                             </a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-white" href="../vendas/index.php">
+                            <a class="nav-link text-white" href="vendas/index.php">
                                 <i class="fas fa-shopping-cart me-2"></i>Vendas
                             </a>
                         </li>
